@@ -6,7 +6,7 @@ The project took Bike Sales data that included attributes such as Age, Gender, R
 
 We initially cleaned the data in a separate worksheet
 
-![A screenshot of a computer Description automatically generated with medium confidence](media/ab09188db013ba563e91fa795b61ab4d.png)
+[![Screenshot-125.png](https://i.postimg.cc/7h2fPnFL/Screenshot-125.png)](https://postimg.cc/SYmyDCN0)
 
 We then created pivot tables and charts and graphs based on those pivot tables
 
