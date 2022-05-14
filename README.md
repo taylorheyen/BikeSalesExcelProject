@@ -10,8 +10,8 @@ We initially cleaned the data in a separate worksheet
 
 We then created pivot tables and charts and graphs based on those pivot tables
 
-![A screenshot of a computer Description automatically generated with medium confidence](media/2de11377dbba03ec7ec4299b7354a111.png)
+[![Screenshot-126.png](https://i.postimg.cc/7YSVPFrS/Screenshot-126.png)](https://postimg.cc/CzLDm61K)
 
 And finally we took the charts and graphs and organized them better into a dashboard. Once the dashboard was organized better we added splice’s for the charts so we could further filter our charts
 
-![A screenshot of a computer Description automatically generated with medium confidence](media/893b5bd7b2cdd000133f1d498f8b6c37.png)
+[![Screenshot-127.png](https://i.postimg.cc/8CzBHsJb/Screenshot-127.png)](https://postimg.cc/hXNd4D0J)
